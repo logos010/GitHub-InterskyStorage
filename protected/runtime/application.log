@@ -1,0 +1,285 @@
+2012/11/03 07:41:59 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.textedit' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `textedit`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\textedit\models\Textedit.php (5)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\textedit\components\TextEditor.php (28)
+in D:\xampp\htdocs\InterskyManagement\protected\views\site\index.php (1)
+2012/11/03 11:24:48 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{users}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{users}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\User.php (31)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\components\UserIdentity.php (27)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\UserLogin.php (52)
+2012/11/03 11:30:11 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{users}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{users}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\User.php (31)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\components\UserIdentity.php (27)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\UserLogin.php (52)
+2012/11/03 11:40:25 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{users}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{users}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\User.php (31)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\components\UserIdentity.php (27)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\UserLogin.php (52)
+2012/11/03 11:42:07 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{users}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{users}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\User.php (31)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\components\UserIdentity.php (27)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\UserLogin.php (52)
+2012/11/03 11:42:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{users}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{users}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\User.php (31)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\components\UserIdentity.php (27)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\UserLogin.php (52)
+2012/11/03 11:42:43 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{users}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{users}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\User.php (31)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\components\UserIdentity.php (27)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\UserLogin.php (52)
+2012/11/03 11:42:55 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{users}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{users}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\User.php (31)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\components\UserIdentity.php (27)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\UserLogin.php (52)
+2012/11/03 17:58:21 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{users}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{users}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\User.php (31)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\components\UserIdentity.php (27)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\UserLogin.php (52)
+2012/11/03 18:00:50 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{users}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{users}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\User.php (31)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\components\UserIdentity.php (27)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\UserLogin.php (53)
+2012/11/03 18:03:53 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{users}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{users}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\User.php (31)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\components\UserIdentity.php (27)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\UserLogin.php (52)
+2012/11/03 18:06:56 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{users}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{users}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\User.php (31)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\components\UserIdentity.php (27)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\UserLogin.php (52)
+2012/11/03 18:11:18 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{users}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{users}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\User.php (31)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\components\UserIdentity.php (27)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\UserLogin.php (52)
+2012/11/03 18:11:59 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{users}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{users}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\User.php (31)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\components\UserIdentity.php (27)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\UserLogin.php (52)
+2012/11/03 18:13:20 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{users}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{users}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\User.php (31)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\components\UserIdentity.php (27)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\UserLogin.php (52)
+2012/11/03 18:17:47 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{users}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{users}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\User.php (31)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\components\UserIdentity.php (27)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\UserLogin.php (52)
+2012/11/03 18:20:13 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{users}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{users}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\User.php (31)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\controllers\LoginController.php (54)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\controllers\LoginController.php (24)
+2012/11/03 19:43:57 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{users}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{users}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\User.php (33)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\components\UserIdentity.php (27)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\UserLogin.php (52)
+2012/11/03 19:44:58 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.{{profiles}}' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `{{profiles}}`.
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\components\UserIdentity.php (27)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\models\UserLogin.php (52)
+in D:\xampp\htdocs\InterskyManagement\protected\modules\user\controllers\LoginController.php (19)
+<<<<<<< .mine
+2012/11/08 23:25:12 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.tbl_users' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `tbl_users`.
+in C:\wamp\www\intersky\protected\modules\user\models\User.php (33)
+in C:\wamp\www\intersky\protected\extensions\Util\Util.php (171)
+in C:\wamp\www\intersky\protected\views\site\index.php (27)
+2012/11/08 23:31:08 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.tbl_users' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `tbl_users`.
+in C:\wamp\www\intersky\protected\modules\user\models\User.php (33)
+in C:\wamp\www\intersky\protected\extensions\Util\Util.php (171)
+in C:\wamp\www\intersky\protected\views\site\index.php (27)
+2012/11/08 23:31:09 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.tbl_users' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `tbl_users`.
+in C:\wamp\www\intersky\protected\modules\user\models\User.php (33)
+in C:\wamp\www\intersky\protected\extensions\Util\Util.php (171)
+in C:\wamp\www\intersky\protected\views\site\index.php (27)
+2012/11/08 23:31:09 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.tbl_users' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `tbl_users`.
+in C:\wamp\www\intersky\protected\modules\user\models\User.php (33)
+in C:\wamp\www\intersky\protected\extensions\Util\Util.php (171)
+in C:\wamp\www\intersky\protected\views\site\index.php (27)
+2012/11/08 23:31:09 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.tbl_users' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `tbl_users`.
+in C:\wamp\www\intersky\protected\modules\user\models\User.php (33)
+in C:\wamp\www\intersky\protected\extensions\Util\Util.php (171)
+in C:\wamp\www\intersky\protected\views\site\index.php (27)
+2012/11/08 23:31:09 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.tbl_users' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `tbl_users`.
+in C:\wamp\www\intersky\protected\modules\user\models\User.php (33)
+in C:\wamp\www\intersky\protected\extensions\Util\Util.php (171)
+in C:\wamp\www\intersky\protected\views\site\index.php (27)
+2012/11/08 23:31:09 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.tbl_users' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `tbl_users`.
+in C:\wamp\www\intersky\protected\modules\user\models\User.php (33)
+in C:\wamp\www\intersky\protected\extensions\Util\Util.php (171)
+in C:\wamp\www\intersky\protected\views\site\index.php (27)
+2012/11/08 23:31:10 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.tbl_users' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `tbl_users`.
+in C:\wamp\www\intersky\protected\modules\user\models\User.php (33)
+in C:\wamp\www\intersky\protected\extensions\Util\Util.php (171)
+in C:\wamp\www\intersky\protected\views\site\index.php (27)
+2012/11/08 23:35:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.tbl_users' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `tbl_users`.
+in C:\wamp\www\intersky\protected\modules\user\models\User.php (33)
+in C:\wamp\www\intersky\protected\extensions\Util\Util.php (171)
+in C:\wamp\www\intersky\protected\views\site\index.php (27)
+2012/11/08 23:35:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intersky.tbl_users' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `tbl_users`.
+in C:\wamp\www\intersky\protected\modules\user\models\User.php (33)
+in C:\wamp\www\intersky\protected\extensions\Util\Util.php (171)
+in C:\wamp\www\intersky\protected\views\site\index.php (27)
+=======
+2012/11/08 22:06:48 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'column DESC' at line 1. The SQL statement executed was: SELECT * FROM `contain` `t` WHERE range_id = :rid ORDER BY column DESC.
+in D:\xampp\htdocs\intersky-storage\protected\modules\storage\controllers\RangeController.php (299)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (8)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/08 22:07:17 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'column' at line 1. The SQL statement executed was: SELECT * FROM `contain` `t` WHERE range_id = :rid ORDER BY column.
+in D:\xampp\htdocs\intersky-storage\protected\modules\storage\controllers\RangeController.php (299)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (8)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+>>>>>>> .r15
+2012/11/10 15:25:10 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'status' in field list is ambiguous. The SQL statement executed was: SELECT t.dossier_id, customer_dossier.dossier_name barcode, status, command FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (238)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/10 15:28:38 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'status' in field list is ambiguous. The SQL statement executed was: SELECT t.dossier_id, customer_dossier.dossier_name barcode, status, command FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (238)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/10 15:28:58 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'dossier_id' in where clause is ambiguous. The SQL statement executed was: SELECT t.dossier_id, customer_dossier.dossier_name barcode, t.status, command FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (238)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/11 21:43:52 [error] [system.db.CDbCommand] CDbCommand::fetch() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1. The SQL statement executed was: SELECT * FROM `role` `t` WHERE user_id =  LIMIT 1.
+in D:\xampp\htdocs\intersky-storage\protected\modules\user\controllers\LoginController.php (28)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/11 21:44:33 [error] [system.db.CDbCommand] CDbCommand::fetch() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1. The SQL statement executed was: SELECT * FROM `role` `t` WHERE user_id =  LIMIT 1.
+in D:\xampp\htdocs\intersky-storage\protected\modules\user\controllers\LoginController.php (29)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/13 14:17:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.cus_id' in 'field list'. The SQL statement executed was: SELECT dossier_id, t.cus_id, dossier_name, create_time, update_time FROM `customer_dossier` `t` JOIN customer ON t.cus_id = customer.cus_id WHERE t.cus_id = :cid AND t.status = 1 ORDER BY dossier_id DESC.
+in C:\wamp\www\intersky\protected\modules\customer\controllers\CustomerDossierController.php (163)
+in C:\wamp\www\intersky\protected\components\Controller.php (10)
+in C:\wamp\www\intersky\index.php (15)
+2012/11/13 14:18:21 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.cus_id' in 'field list'. The SQL statement executed was: SELECT dossier_id, t.cus_id, dossier_name, create_time, update_time FROM `customer_dossier` `t` WHERE t.cus_id = :cid AND t.status = 1 ORDER BY dossier_id DESC.
+in C:\wamp\www\intersky\protected\modules\customer\controllers\CustomerDossierController.php (163)
+in C:\wamp\www\intersky\protected\components\Controller.php (10)
+in C:\wamp\www\intersky\index.php (15)
+2012/11/13 14:18:36 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.cus_id' in 'where clause'. The SQL statement executed was: SELECT dossier_id, t.contract_id, dossier_name, create_time, update_time FROM `customer_dossier` `t` WHERE t.cus_id = :cid AND t.status = 1 ORDER BY dossier_id DESC.
+in C:\wamp\www\intersky\protected\modules\customer\controllers\CustomerDossierController.php (163)
+in C:\wamp\www\intersky\protected\components\Controller.php (10)
+in C:\wamp\www\intersky\index.php (15)
+2012/11/15 16:01:33 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'customer_dossier.cus_id' in 'where clause'. The SQL statement executed was: SELECT `customer_dossier`.`dossier_id` AS `t1_c0`, `customer_dossier`.`barcode` AS `t1_c1`, `customer_dossier`.`dossier_name` AS `t1_c2`, `customer_dossier`.`storage_id` AS `t1_c3`, `customer_dossier`.`floor_id` AS `t1_c4`, `customer_dossier`.`create_time` AS `t1_c5`, `customer_dossier`.`update_time` AS `t1_c6`, `customer_dossier`.`status` AS `t1_c7`, `customer_dossier`.`destruction_time` AS `t1_c8`, `customer_dossier`.`contract_id` AS `t1_c9`, `customer_dossier`.`note` AS `t1_c10` FROM `customer_dossier` `customer_dossier`  WHERE (`customer_dossier`.`cus_id`=:ypl0).
+in C:\wamp\www\intersky\protected\modules\storage\components\views\ContainFloorWidget.php (12)
+in C:\wamp\www\intersky\protected\modules\storage\components\ContainFloorWidget.php (33)
+in C:\wamp\www\intersky\protected\modules\customer\views\customerDossier\listContainSummaryPage.php (151)
+2012/11/17 09:39:59 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'contrac_id' in 'where clause'. The SQL statement executed was: SELECT * FROM `customer_dossier` `t` WHERE contrac_id = :contractID.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (337)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/18 01:07:31 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.dossier_id' in 'field list'. The SQL statement executed was: SELECT t.track_id, t.dossier_id, customer_dossier.dossier_name, t.status, t.command, t.incharge_info, t.create_time FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE t.dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (246)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/18 01:07:33 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.dossier_id' in 'field list'. The SQL statement executed was: SELECT t.track_id, t.dossier_id, customer_dossier.dossier_name, t.status, t.command, t.incharge_info, t.create_time FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE t.dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (246)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/18 01:07:35 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.dossier_id' in 'field list'. The SQL statement executed was: SELECT t.track_id, t.dossier_id, customer_dossier.dossier_name, t.status, t.command, t.incharge_info, t.create_time FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE t.dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (246)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/18 01:08:10 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.dossier_id' in 'field list'. The SQL statement executed was: SELECT t.track_id, t.dossier_id, customer_dossier.dossier_name, t.status, t.command, t.incharge_info, t.create_time FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE t.dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (246)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/18 01:54:47 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.dossier_id' in 'field list'. The SQL statement executed was: SELECT t.track_id, t.dossier_id, customer_dossier.dossier_name, t.status, t.command, t.incharge_info, t.create_time FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE t.dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (246)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/18 15:07:26 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.dossier_id' in 'field list'. The SQL statement executed was: SELECT t.track_id, t.dossier_id, customer_dossier.dossier_name, t.status, t.command, t.incharge_info, t.create_time FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE t.dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (261)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/18 16:55:36 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.dossier_id' in 'field list'. The SQL statement executed was: SELECT t.track_id, t.dossier_id, customer_dossier.dossier_name, t.status, t.command, t.incharge_info, t.create_time FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE t.dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (261)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/18 16:56:54 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.dossier_id' in 'field list'. The SQL statement executed was: SELECT t.track_id, t.dossier_id, customer_dossier.dossier_name, t.status, t.command, t.incharge_info, t.create_time FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE t.dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (261)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/18 19:28:12 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.dossier_id' in 'field list'. The SQL statement executed was: SELECT t.track_id, t.dossier_id, customer_dossier.dossier_name, t.status, t.command, t.incharge_info, t.create_time FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE t.dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (261)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/26 19:40:10 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.contract_id' in 'field list'. The SQL statement executed was: SELECT dossier_id, t.contract_id, dossier_name, t.status, create_time, update_time, t.note, t.floor_id FROM `customer_dossier` `t` JOIN floor ON floor.floor_id = t.floor_id WHERE t.contract_id = :contractID AND t.status = 1.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (351)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/26 19:48:35 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'contract_price ON contract_price.cus_id = t.cus_id WHERE contract_id.contract_id' at line 1. The SQL statement executed was: SELECT dossier_id, dossier_name, t.status, create_time, update_time, t.note, t.floor_id FROM `customer_dossier` `t` JOIN floor ON floor.floor_id = t.floor_idJOIN contract_price ON contract_price.cus_id = t.cus_id WHERE contract_id.contract_id = :contractID AND t.status = 1.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (352)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/26 19:49:17 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'create_time' in field list is ambiguous. The SQL statement executed was: SELECT dossier_id, dossier_name, t.status, create_time, update_time, t.note, t.floor_id FROM `customer_dossier` `t` JOIN floor ON floor.floor_id = t.floor_id JOIN contract_price ON contract_price.cus_id = t.cus_id WHERE contract_id.contract_id = :contractID AND t.status = 1.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (352)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/26 19:50:06 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'contract_id.contract_id' in 'where clause'. The SQL statement executed was: SELECT dossier_id, dossier_name, t.status, t.create_time, update_time, t.note, t.floor_id FROM `customer_dossier` `t` JOIN floor ON floor.floor_id = t.floor_id JOIN contract_price ON contract_price.cus_id = t.cus_id WHERE contract_id.contract_id = :contractID AND t.status = 1.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (352)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/26 19:51:49 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.incharge_info' in 'field list'. The SQL statement executed was: SELECT t.track_id, t.dossier_id, customer_dossier.dossier_name, t.status, t.command, t.incharge_info, t.create_time FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE t.dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (228)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/26 19:51:50 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.incharge_info' in 'field list'. The SQL statement executed was: SELECT t.track_id, t.dossier_id, customer_dossier.dossier_name, t.status, t.command, t.incharge_info, t.create_time FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE t.dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (228)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/26 19:51:51 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.incharge_info' in 'field list'. The SQL statement executed was: SELECT t.track_id, t.dossier_id, customer_dossier.dossier_name, t.status, t.command, t.incharge_info, t.create_time FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE t.dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (228)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/11/26 19:53:55 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'contract_id' in 'where clause'. The SQL statement executed was: SELECT * FROM `customer_dossier` `t` WHERE contract_id = :contractID.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerDossierController.php (505)
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerDossierController.php (569)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+2012/12/18 22:25:21 [error] [system.db.CDbCommand] CDbCommand::fetch() failed: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined. The SQL statement executed was: SELECT * FROM `role` `t` WHERE user_id = :uid LIMIT 1.
+in D:\xampp\htdocs\intersky-storage\protected\extensions\Util\Util.php (231)
+in D:\xampp\htdocs\intersky-storage\protected\modules\user\views\admin\_form.php (32)
+in D:\xampp\htdocs\intersky-storage\protected\modules\user\views\admin\update.php (26)
+2012/12/18 22:56:19 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'contract_id' in 'where clause'. The SQL statement executed was: SELECT * FROM `customer_dossier` `t` WHERE contract_id = :id.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\views\customer\listCustomerDossierViewPage.php (172)
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\views\customer\customerDossierView.php (25)
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (250)
+2012/12/18 23:16:36 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'contract_id' in 'where clause'. The SQL statement executed was: SELECT * FROM `customer_dossier` `t` WHERE contract_id = :id.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\views\customer\listCustomerDossierViewPage.php (172)
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\views\customer\customerDossierView.php (25)
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (250)
+2012/12/20 20:36:46 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'supperuser' in 'where clause'. The SQL statement executed was: SELECT `user`.`id` AS `t0_c0`, `user`.`username` AS `t0_c2`, `user`.`email` AS `t0_c4`, `user`.`create_at` AS `t0_c8`, `user`.`lastvisit_at` AS `t0_c9`, `user`.`superuser` AS `t0_c6`, `user`.`status` AS `t0_c7`, `profile`.`user_id` AS `t1_c0`, `profile`.`first_name` AS `t1_c1`, `profile`.`last_name` AS `t1_c2` FROM `tbl_users` `user`  LEFT OUTER JOIN `tbl_profiles` `profile` ON (`profile`.`user_id`=`user`.`id`)  WHERE (supperuser != 1 AND superuser != 2).
+in D:\xampp\htdocs\intersky-storage\protected\extensions\Util\Util.php (258)
+in D:\xampp\htdocs\intersky-storage\protected\modules\user\views\user\_registrationPage.php (56)
+in D:\xampp\htdocs\intersky-storage\protected\modules\user\views\user\registration.php (25)
+2012/12/20 21:01:37 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't.cus_id' at line 1. The SQL statement executed was: SELECT `t`.`cus_id`, `t`.`company_name`, `t`.`tax_code`, `t`.`comp_phone`, `t`.`comp_email`, `t`.`comp_fax`, `t`.`comp_address`, `t`.`comp_contact_info`, `t`.`status`, `t`.`contract_time`, `t`.`contract_code` FROM `customer` `t` INNER JOIN tbl_users ON tbl_users.cus_id = t.cus_id WHERE status = 1 AND tbl_users.cus_id NOT IN t.cus_id.
+in D:\xampp\htdocs\intersky-storage\protected\extensions\Util\Util.php (244)
+in D:\xampp\htdocs\intersky-storage\protected\modules\user\views\user\_registrationPage.php (56)
+in D:\xampp\htdocs\intersky-storage\protected\modules\user\views\user\registration.php (25)
+2012/12/20 21:01:48 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'status' in where clause is ambiguous. The SQL statement executed was: SELECT `t`.`cus_id`, `t`.`company_name`, `t`.`tax_code`, `t`.`comp_phone`, `t`.`comp_email`, `t`.`comp_fax`, `t`.`comp_address`, `t`.`comp_contact_info`, `t`.`status`, `t`.`contract_time`, `t`.`contract_code` FROM `customer` `t` INNER JOIN tbl_users ON tbl_users.cus_id = t.cus_id WHERE status = 1 .
+in D:\xampp\htdocs\intersky-storage\protected\extensions\Util\Util.php (244)
+in D:\xampp\htdocs\intersky-storage\protected\modules\user\views\user\_registrationPage.php (56)
+in D:\xampp\htdocs\intersky-storage\protected\modules\user\views\user\registration.php (25)
+2012/12/20 21:02:31 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't.cus_id' at line 1. The SQL statement executed was: SELECT `t`.`cus_id`, `t`.`company_name`, `t`.`tax_code`, `t`.`comp_phone`, `t`.`comp_email`, `t`.`comp_fax`, `t`.`comp_address`, `t`.`comp_contact_info`, `t`.`status`, `t`.`contract_time`, `t`.`contract_code` FROM `customer` `t` INNER JOIN tbl_users ON tbl_users.cus_id = t.cus_id WHERE tbl_users.status = 1 AND tbl_users.cus_id NOT IN t.cus_id.
+in D:\xampp\htdocs\intersky-storage\protected\extensions\Util\Util.php (244)
+in D:\xampp\htdocs\intersky-storage\protected\modules\user\views\user\_registrationPage.php (56)
+in D:\xampp\htdocs\intersky-storage\protected\modules\user\views\user\registration.php (25)
+2012/12/22 10:08:13 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1. The SQL statement executed was: SELECT * FROM `customer` `t` WHERE cus_id NOT IN (7)).
+in D:\xampp\htdocs\intersky-storage\protected\extensions\Util\Util.php (261)
+in D:\xampp\htdocs\intersky-storage\protected\modules\user\views\user\_registrationPage.php (56)
+in D:\xampp\htdocs\intersky-storage\protected\modules\user\views\user\registration.php (25)
+2012/12/23 00:54:21 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.incharge_info' in 'field list'. The SQL statement executed was: SELECT t.track_id, t.dossier_id, customer_dossier.dossier_name, t.status, t.command, t.incharge_info, t.create_time FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE t.dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (264)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/12/23 00:54:57 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.incharge_info' in 'field list'. The SQL statement executed was: SELECT t.track_id, t.dossier_id, customer_dossier.dossier_name, t.status, t.command, t.incharge_info, t.create_time FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE t.dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (264)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/12/23 00:54:59 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.incharge_info' in 'field list'. The SQL statement executed was: SELECT t.track_id, t.dossier_id, customer_dossier.dossier_name, t.status, t.command, t.incharge_info, t.create_time FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE t.dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (264)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/12/23 00:55:13 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.incharge_info' in 'field list'. The SQL statement executed was: SELECT t.track_id, t.dossier_id, customer_dossier.dossier_name, t.status, t.command, t.incharge_info, t.create_time FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE t.dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (264)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
+2012/12/23 00:56:18 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.incharge_info' in 'field list'. The SQL statement executed was: SELECT t.track_id, t.dossier_id, customer_dossier.dossier_name, t.status, t.command, t.incharge_info, t.create_time FROM `dossier_track` `t` JOIN customer_dossier ON t.dossier_id = customer_dossier.dossier_id WHERE t.dossier_id = :did.
+in D:\xampp\htdocs\intersky-storage\protected\modules\customer\controllers\CustomerController.php (264)
+in D:\xampp\htdocs\intersky-storage\protected\components\Controller.php (10)
+in D:\xampp\htdocs\intersky-storage\index.php (15)
